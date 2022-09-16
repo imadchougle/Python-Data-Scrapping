@@ -1,7 +1,8 @@
 # Python-Task-Data-Scrapping-
 Installation
 pip install scraper
-Then start project 
+start project 
 The Task was very clear with me and my aim also
-simply i approached with the solution and got the desired output
+TO extract the amazon website and get the data out of it using web scarping
+Product name >> Product price >> product ratings
 
